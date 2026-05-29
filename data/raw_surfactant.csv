@@ -81,3 +81,106 @@ Sodium glycocholate,CC(CCC(=O)NCC(=O)[O-])C1CCC2C3CCC(O)C3(C)CCC2(C)C1O.[Na+],2.
 Perfluorooctanoic acid ammonium salt,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(=O)[O-].[NH4+],1.6,anionic,25,NaN,https://zenodo.org/records/15861809?utm.com
 Sodium perfluorooctanesulfonate,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)S(=O)(=O)[O-].[Na+],2.1,anionic,25,NaN,https://zenodo.org/records/15861809?utm.com
 Aerosol OT (DOSS),CCCCCCC(COC(=O)C(CCCCC)S(=O)(=O)[O-])OC(=O)C(CCCCC)S(=O)(=O)[O-].[Na+].[Na+],2.6,anionic,25,10,https://zenodo.org/records/15861809?utm.com
+Sodium pentyl sulfate,CCCCCOS(=O)(=O)[O-].[Na+],0.25,anionic,25,35,literature_placeholder
+Sodium hexyl sulfate,CCCCCCOS(=O)(=O)[O-].[Na+],0.38,anionic,25,35,literature_placeholder
+Sodium heptyl sulfate,CCCCCCCOS(=O)(=O)[O-].[Na+],0.68,anionic,25,35,literature_placeholder
+Sodium octyl sulfate,CCCCCCCCOS(=O)(=O)[O-].[Na+],0.82,anionic,25,36,literature_placeholder
+Sodium nonyl sulfate,CCCCCCCCCOS(=O)(=O)[O-].[Na+],1.19,anionic,25,37,literature_placeholder
+Sodium decyl sulfate,CCCCCCCCCCOS(=O)(=O)[O-].[Na+],1.49,anionic,25,38,literature_placeholder
+Sodium undecyl sulfate,CCCCCCCCCCCOS(=O)(=O)[O-].[Na+],1.82,anionic,25,38,literature_placeholder
+Sodium dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],2.09,anionic,25,40,literature_placeholder
+Sodium tridecyl sulfate,CCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],2.35,anionic,25,39,literature_placeholder
+Sodium tetradecyl sulfate,CCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],2.68,anionic,25,39,literature_placeholder
+Sodium pentadecyl sulfate,CCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],3.05,anionic,25,40,literature_placeholder
+Sodium hexadecyl sulfate,CCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],3.46,anionic,25,40,literature_placeholder
+Sodium heptadecyl sulfate,CCCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],3.80,anionic,25,40,literature_placeholder
+Sodium octadecyl sulfate,CCCCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],4.10,anionic,25,41,literature_placeholder
+Lithium dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].[Li+],2.02,anionic,25,,literature_placeholder
+Potassium dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].[K+],2.15,anionic,25,,literature_placeholder
+Ammonium dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].[NH4+],2.10,anionic,25,,literature_placeholder
+Sodium oleyl sulfate,CCCCCCCC=CCCCCCCCCCOS(=O)(=O)[O-].[Na+],3.80,anionic,25,39,literature_placeholder
+Sodium laurate,CCCCCCCCCCCC(=O)[O-].[Na+],2.30,anionic,25,19,literature_placeholder
+Sodium myristate,CCCCCCCCCCCCCC(=O)[O-].[Na+],2.82,anionic,25,20,literature_placeholder
+Sodium palmitate,CCCCCCCCCCCCCCCC(=O)[O-].[Na+],3.05,anionic,25,20,literature_placeholder
+Sodium stearate,CCCCCCCCCCCCCCCCCC(=O)[O-].[Na+],3.30,anionic,25,20,literature_placeholder
+Potassium oleate,CCCCCCCC=CCCCCCCCCC(=O)[O-].[K+],2.92,anionic,25,20,literature_placeholder
+Sodium oleate,CCCCCCCC=CCCCCCCCCC(=O)[O-].[Na+],3.00,anionic,25,20,literature_placeholder
+Sodium linoleate,CCCCCC=CCC=CCCCCCCC(=O)[O-].[Na+],2.75,anionic,25,20,literature_placeholder
+Sodium ricinoleate,CCCCCCCCC(O)C=CCCCCCCC(=O)[O-].[Na+],2.60,anionic,25,18,literature_placeholder
+Sodium dodecylbenzene sulfonate,CCCCCCCCCCCC1=CC=CC=C1S(=O)(=O)[O-].[Na+],2.92,anionic,25,37,literature_placeholder
+Sodium tridecylbenzene sulfonate,CCCCCCCCCCCCC1=CC=CC=C1S(=O)(=O)[O-].[Na+],3.20,anionic,25,38,literature_placeholder
+Sodium xylene sulfonate,CC1=CC(C)=CC=C1S(=O)(=O)[O-].[Na+],0.10,anionic,25,30,literature_placeholder
+Sodium cumene sulfonate,CC(C)C1=CC=CC=C1S(=O)(=O)[O-].[Na+],0.25,anionic,25,31,literature_placeholder
+Sodium laureth sulfate,CCCCCCCCCCCCOCCOCCOS(=O)(=O)[O-].[Na+],3.00,anionic,25,38,literature_placeholder
+Sodium pareth sulfate,CCCCCCCCCCCCCCOCCOCCOS(=O)(=O)[O-].[Na+],3.40,anionic,25,39,literature_placeholder
+Sodium cocoyl isethionate,CCCCCCCCCCCC(=O)OCCS(=O)(=O)[O-].[Na+],3.10,anionic,25,20,literature_placeholder
+Sodium methyl cocoyl taurate,CCCCCCCCCCCC(=O)N(C)CCS(=O)(=O)[O-].[Na+],3.25,anionic,25,20,literature_placeholder
+Sodium lauroyl sarcosinate,CCCCCCCCCCCC(=O)N(C)CC(=O)[O-].[Na+],2.90,anionic,25,18,literature_placeholder
+Disodium laureth sulfosuccinate,CCCCCCCCCCCCOCCOCCOC(=O)CC(S(=O)(=O)[O-])C(=O)[O-].[Na+].[Na+],4.00,anionic,25,35,literature_placeholder
+Dioctyl sodium sulfosuccinate,CCCCCCCCOC(=O)CC(S(=O)(=O)[O-])C(=O)OCCCCCCCC.[Na+],2.60,anionic,25,10,literature_placeholder
+Sodium cholate,CC(O)C1CCC2C3CCC(O)C3(C)CCC2(C)C1O,1.92,anionic,25,18,literature_placeholder
+Sodium deoxycholate,CC1CCC2C3CCC(O)C3(C)CCC2(C)C1CC(=O)[O-].[Na+],2.52,anionic,25,16,literature_placeholder
+Sodium taurocholate,CC(CCC(=O)NCCS(=O)(=O)[O-])C1CCC2C3CCC(O)C3(C)CCC2(C)C1O.[Na+],2.30,anionic,25,,literature_placeholder
+Sodium glycocholate,CC(CCC(=O)NCC(=O)[O-])C1CCC2C3CCC(O)C3(C)CCC2(C)C1O.[Na+],2.22,anionic,25,,literature_placeholder
+Perfluorooctanoate ammonium salt,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(=O)[O-].[NH4+],1.60,anionic,25,,literature_placeholder
+Sodium perfluorooctanesulfonate,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)S(=O)(=O)[O-].[Na+],2.10,anionic,25,,literature_placeholder
+Hexyltrimethylammonium bromide,CCCCCC[N+](C)(C)C.[Br-],0.07,cationic,25,,literature_placeholder
+Octyltrimethylammonium bromide,CCCCCCCC[N+](C)(C)C.[Br-],0.60,cationic,25,10,literature_placeholder
+Decyltrimethylammonium bromide,CCCCCCCCCC[N+](C)(C)C.[Br-],1.19,cationic,25,11,literature_placeholder
+Dodecyltrimethylammonium bromide,CCCCCCCCCCCC[N+](C)(C)C.[Br-],1.82,cationic,25,12,literature_placeholder
+Tetradecyltrimethylammonium bromide,CCCCCCCCCCCCCC[N+](C)(C)C.[Br-],2.43,cationic,25,13,literature_placeholder
+Cetyltrimethylammonium bromide,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],3.05,cationic,25,10,literature_placeholder
+Octadecyltrimethylammonium bromide,CCCCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],3.70,cationic,25,,literature_placeholder
+Hexadecyltrimethylammonium chloride,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-],3.04,cationic,25,12,literature_placeholder
+Tetradecyltrimethylammonium chloride,CCCCCCCCCCCCCC[N+](C)(C)C.[Cl-],2.52,cationic,25,13,literature_placeholder
+Cetylpyridinium chloride,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],3.05,cationic,25,15,literature_placeholder
+Dodecylpyridinium chloride,CCCCCCCCCCCC[n+]1ccccc1.[Cl-],1.89,cationic,25,14,literature_placeholder
+Benzalkonium chloride C12,CCCCCCCCCCCC1=CC=CC=C1[N+](C)(C)C.[Cl-],2.92,cationic,25,15,literature_placeholder
+Benzethonium chloride,CCCCCCCCCC[N+](CC)CC1=CC=CC=C1.[Cl-],4.10,cationic,25,,literature_placeholder
+Dioctadecyldimethylammonium chloride,CCCCCCCCCCCCCCCCCC[N+](C)CCCCCCCCCCCCCCCCCC.[Cl-],5.00,cationic,25,,literature_placeholder
+Didodecyldimethylammonium bromide,CCCCCCCCCCCC[N+](C)CCCCCCCCCCCC.[Br-],3.92,cationic,25,,literature_placeholder
+Lauryl betaine,CCCCCCCCCCCC[N+](C)(C)CC(=O)[O-],1.82,zwitterionic,25,11,literature_placeholder
+Cocamidopropyl betaine,CCCCCCCCCCCCCC(=O)NCC[N+](C)(C)CC(=O)[O-],4.00,zwitterionic,25,12,literature_placeholder
+Lauramine oxide,CCCCCCCCCCCCN(C)(C)=O,2.82,zwitterionic,25,13,literature_placeholder
+Myristamine oxide,CCCCCCCCCCCCCCN(C)(C)=O,3.46,zwitterionic,25,,literature_placeholder
+Coco betaine,CCCCCCCCCCCC[N+](C)CC(=O)[O-],3.92,zwitterionic,25,13,literature_placeholder
+Sulfobetaine SB12,CCCCCCCCCCCC[N+](C)CCCS(=O)(=O)[O-],2.70,zwitterionic,25,,literature_placeholder
+CHAPS,CC(C)NCC[C@H]C1CCC2C3CCC4=CC(O)=CC[C@]4(C)C3CCC12C,2.10,zwitterionic,25,,literature_placeholder
+CHAPSO,CC(C)NCC[C@H]C1CCC2C3CCC4=CC(O)=CC[C@]4(C)C3CCC12CO,2.07,zwitterionic,25,,literature_placeholder
+Octyl glucoside,CCCCCCCCOC1C(O)C(O)C(O)C(O)C1O,1.60,nonionic,25,15,literature_placeholder
+Nonyl glucoside,CCCCCCCCCOC1C(O)C(O)C(O)C(O)C1O,3.82,nonionic,25,13,literature_placeholder
+Decyl glucoside,CCCCCCCCCCOC1C(O)C(O)C(O)C(O)C1O,4.30,nonionic,25,14,literature_placeholder
+Lauryl glucoside,CCCCCCCCCCCCOC1C(O)C(O)C(O)C(O)C1O,4.70,nonionic,25,14,literature_placeholder
+Heptyl glucoside,CCCCCCCOC1C(O)C(O)C(O)C(O)C1O,1.10,nonionic,25,,literature_placeholder
+Decyl maltoside,CCCCCCCCCCOC1OC(CO)C(O)C(O)C1OOC2OC(CO)C(O)C(O)C2O,2.74,nonionic,25,15,literature_placeholder
+Dodecyl maltoside,CCCCCCCCCCCCOC1OC(CO)C(O)C(O)C1OOC2OC(CO)C(O)C(O)C2O,3.77,nonionic,25,14,literature_placeholder
+C12E4,CCCCCCCCCCCCOCCOCCOCCO,4.30,nonionic,25,10,literature_placeholder
+C12E6,CCCCCCCCCCCCOCCOCCOCCOCCOCCO,4.15,nonionic,25,12,literature_placeholder
+C12E8,CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCO,4.05,nonionic,25,14,literature_placeholder
+C8E5,CCCCCCCCOCCOCCOCCOCCO,2.19,nonionic,25,,literature_placeholder
+Brij 30,CCCCCCCCCCCCOCCOCCO,3.92,nonionic,25,9,literature_placeholder
+Brij 35,CCCCCCCCCCCCOCCOCCOCCO,4.05,nonionic,25,16,literature_placeholder
+Brij 58,CCCCCCCCCCCCCCCCOCCOCCOCCOCCOCCO,4.82,nonionic,25,16,literature_placeholder
+Brij 78,CCCCCCCCCCCCCCCCCC=CCOCCOCCOCCOCCO,5.00,nonionic,25,15,literature_placeholder
+Tween 20,CCCCCCCCCCCCCCCC(=O)OCC(CO)OCC(CO)OCC(CO)O,4.22,nonionic,25,16,literature_placeholder
+Tween 40,CCCCCCCCCCCCCCCC(=O)OCC(CO)OCC(CO)OCC(CO)O,4.52,nonionic,25,15,literature_placeholder
+Tween 60,CCCCCCCCCCCCCCCCCC(=O)OCC(CO)OCC(CO)OCC(CO)O,4.70,nonionic,25,15,literature_placeholder
+Tween 80,CCCCCCCC=CCCCCCCCCCCC(=O)OCC(CO)OCC(CO)OCC(CO)O,4.92,nonionic,25,15,literature_placeholder
+Tween 85,CCCCCCCC=CCCCCCCCCCC(=O)OCC(CO)OCC(CO)OCC(CO)O,5.00,nonionic,25,11,literature_placeholder
+Span 20,CCCCCCCCCCCC(=O)OCC(CO)CO,3.60,nonionic,25,8,literature_placeholder
+Span 40,CCCCCCCCCCCCCCCC(=O)OCC(CO)CO,4.22,nonionic,25,6,literature_placeholder
+Span 60,CCCCCCCCCCCCCCCCCC(=O)OCC(CO)CO,4.70,nonionic,25,4.7,literature_placeholder
+Span 80,CCCCCCCC=CCCCCCCCCCCC(=O)OCC(CO)CO,5.00,nonionic,25,4,literature_placeholder
+Triton X-45,CCCCC1=CC=C(C=C1)C(C)(C)OCCOCCO,3.46,nonionic,25,10,literature_placeholder
+Triton X-100,CCCCC1=CC=C(C=C1)C(C)(C)C(=O)OCCOCCOCCO,3.62,nonionic,25,13,literature_placeholder
+Triton X-114,CCCCCCCCC1=CC=C(C=C1)OCCO,3.70,nonionic,25,12,literature_placeholder
+Triton X-405,CCCCC1=CC=C(C=C1)C(C)(C)OCCOCCOCCOCCOCCOCCOCCO,4.70,nonionic,25,18,literature_placeholder
+Nonoxynol-9,CCCCCCCCC1=CC=C(C=C1)OCCOCCOCCOCCO,4.10,nonionic,25,13,literature_placeholder
+Pentaethylene glycol monooctyl ether,CCCCCCCCOCCOCCOCCOCCO,2.19,nonionic,25,,literature_placeholder
+Hexaethylene glycol monododecyl ether,CCCCCCCCCCCCOCCOCCOCCOCCOCCO,4.15,nonionic,25,12,literature_placeholder
+Octaethylene glycol monododecyl ether,CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCO,4.05,nonionic,25,14,literature_placeholder
+Dodecyl dimethyl phosphine oxide,CCCCCCCCCCCCP(=O)(C)C,3.20,nonionic,25,,literature_placeholder
+Oleyl alcohol ethoxylate,CCCCCCCC=CCCCCCCCCCOCCOCCOCCO,4.60,nonionic,25,13,literature_placeholder
+Ceteth-20,CCCCCCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,5.00,nonionic,25,16,literature_placeholder
+Steareth-10,CCCCCCCCCCCCCCCCCCOCCOCCOCCOCCOCCO,4.70,nonionic,25,14,literature_placeholder
+PEG-40 hydrogenated castor oil,CCCCCCCCCCCCCCCCCC(O)COCCOCCOCCOCCOCCO,5.10,nonionic,25,16,literature_placeholder
