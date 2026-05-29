@@ -1,8 +1,10 @@
 streamlit
 streamlit-ketcher
-rdkit
-xgboost
-scikit-learn
-joblib
 pandas
 numpy
+scikit-learn
+xgboost
+joblib
+matplotlib
+pillow
+rdkit
